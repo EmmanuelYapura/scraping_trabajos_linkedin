@@ -6,7 +6,7 @@
 
 *El proyecto inicia sesion de manera automatica en LinkedIn mediante credenciales guardadas en variables de entorno, 
 luego navega hasta la seccion empleos para realizar una busqueda y extraer los datos obtenidos como por ejemplo: titulo de la publicacion.
-Para finalizar estos datos extraidos los puedo ver mediante la consola o en un archivo JSON. *
+Para finalizar estos datos extraidos los puedo ver mediante la consola o en un archivo JSON.*
 
 ## Tecnologias 
 
