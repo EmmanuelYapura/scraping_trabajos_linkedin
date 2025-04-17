@@ -49,10 +49,14 @@ pip install -r requirements.txt
 ``` 
 crear un archivo .env
 ```
-``` 
-CORREO="ejemplo@ejemplo.com"
-CONTRA="tu_contrasenia"
-```
+
+# .env.example
+
+# Correo electrónico utilizado por la aplicación
+CORREO=tu_correo@ejemplo.com
+
+# Contraseña del correo o token de autenticación
+CONTRA=tu_contraseña
 
 *Ejecutamos el script*
 
