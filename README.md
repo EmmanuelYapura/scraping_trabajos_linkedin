@@ -1,12 +1,12 @@
 # Scraping para trabajos en LinkedIn
 
-Proyecto de automatizacion y scraping de ofertas laborales utilizando Selenium y BeautifulSoup en la pagina LinkedIn
+*Proyecto de automatizacion y scraping de ofertas laborales utilizando Selenium y BeautifulSoup en la pagina LinkedIn*
 
 ## Descripcion proyecto
 
-El proyecto inicia sesion de manera automatica en LinkedIn mediante credenciales guardadas en variables de entorno, 
+*El proyecto inicia sesion de manera automatica en LinkedIn mediante credenciales guardadas en variables de entorno, 
 luego navega hasta la seccion empleos para realizar una busqueda y extraer los datos obtenidos como por ejemplo: titulo de la publicacion.
-Para finalizar estos datos extraidos los puedo ver mediante la consola o en un archivo JSON 
+Para finalizar estos datos extraidos los puedo ver mediante la consola o en un archivo JSON. *
 
 ## Tecnologias 
 
