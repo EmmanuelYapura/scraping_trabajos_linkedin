@@ -59,3 +59,6 @@ CONTRA="tu_contrasenia"
 ``` 
 python main.py
 ```
+
+## Autor
+*Emmanuel Yapura* - Trabajo academico
